@@ -1,4 +1,4 @@
-# PAM-Android-Gallery
+# puzzle Game
 Android gallery &amp; jigsaw puzzle app
 
 <img src="preview.gif" width="432" height="768" />
